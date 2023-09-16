@@ -1,0 +1,117 @@
+---
+object: card
+id: ef40264c-c194-440d-b87c-28548329f4cf
+oracle_id: 4a6e367c-7bc9-44a3-8ede-f2d0651abad3
+multiverse_ids:
+- 201208
+mtgo_id: 33624
+mtgo_foil_id: 33625
+name: Xira Arien
+lang: en
+released_at: '2009-09-07'
+uri: https://api.scryfall.com/cards/ef40264c-c194-440d-b87c-28548329f4cf
+scryfall_uri: https://scryfall.com/card/me3/187/xira-arien?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/f/ef40264c-c194-440d-b87c-28548329f4cf.jpg?1562945450
+  normal: https://cards.scryfall.io/normal/front/e/f/ef40264c-c194-440d-b87c-28548329f4cf.jpg?1562945450
+  large: https://cards.scryfall.io/large/front/e/f/ef40264c-c194-440d-b87c-28548329f4cf.jpg?1562945450
+  png: https://cards.scryfall.io/png/front/e/f/ef40264c-c194-440d-b87c-28548329f4cf.png?1562945450
+  art_crop: https://cards.scryfall.io/art_crop/front/e/f/ef40264c-c194-440d-b87c-28548329f4cf.jpg?1562945450
+  border_crop: https://cards.scryfall.io/border_crop/front/e/f/ef40264c-c194-440d-b87c-28548329f4cf.jpg?1562945450
+mana_cost: "{B}{R}{G}"
+cmc: 3.0
+type_line: Legendary Creature — Insect Wizard
+oracle_text: |-
+  Flying
+  {B}{R}{G}, {T}: Target player draws a card.
+power: '1'
+toughness: '2'
+colors:
+- B
+- G
+- R
+color_identity:
+- B
+- G
+- R
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: b65fb1f2-4768-4c70-8fdf-30a069ad592e
+set: me3
+set_name: Masters Edition III
+set_type: masters
+set_uri: https://api.scryfall.com/sets/b65fb1f2-4768-4c70-8fdf-30a069ad592e
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ame3&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/me3?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/ef40264c-c194-440d-b87c-28548329f4cf/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4a6e367c-7bc9-44a3-8ede-f2d0651abad3&unique=prints
+collector_number: '187'
+digital: true
+rarity: rare
+flavor_text: A regular guest at the Royal Masquerade, Arien is the envy of the Court.
+  She appears in a new costume every hour.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Melissa A. Benson
+artist_ids:
+- 9ade7727-1436-4828-9a1d-487c3d2ad1d9
+illustration_id: c18b556a-cb4c-4a84-9483-de16cd056809
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 13061
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201208
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Xira+Arien&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Xira+Arien&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Xira+Arien
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Xira+Arien&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Xira+Arien&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/33624?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
